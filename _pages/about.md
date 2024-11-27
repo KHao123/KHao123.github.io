@@ -17,42 +17,91 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a Ph.D. student in AI Thrust, HKUST(GZ), supervised by Prof. <a href='https://www.yingcong.me/'>Yingcong Chen</a> and Prof. <a href='https://cislab.hkust-gz.edu.cn/members/zeyu-wang/'>Zeyu Wang</a>. I did my master(2020-2022) at the Sun Yat-sen University, where I was advised by <a href="http://www.isee-ai.cn/~wangruixuan/">Ruixuan Wang</a> and <a href="http://www.isee-ai.cn/~zhwshi/">Wei-Shi Zheng</a>. I did my bachelor(2016-2020) at the Jinan University, majoring in computer science.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interests includes 3D reconstruction/generation. bio-inspired vision, machine learning and medical image analysis. If you are also interested in these fields, please feel free to email me for further discussion on my works.
+
+Recently, I am investgating on 3D/4D scene reconstruction and generation.
+
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS2024. 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2024 Oral. 
+- *2023.09*: &nbsp;I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. student.
 
 # 📝 Publications 
+## Bio-inspired Vision
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction](https://openreview.net/pdf?id=3ilqQHBWTf) \\
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Kanghao Chen**, Hangyu Li, JiaZhou Zhou, Zeyu Wang, Lin Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://vlislab22.github.io/LaSe-E2V/) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+- `CVPR2024` [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang.
+- `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), Kanghao Chen, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
+- `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
+
+
+
+
+## Machine Learning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Alleviating data imbalance issue with perturbed input during inference](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_39) \\
+
+**Kanghao Chen**, Yifan Mao, Huijuan Lu, Chenghua Zeng, Ruixuan Wang, Wei-Shi Zheng
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[PCCT: Progressive class-center triplet loss for imbalanced medical image classification](https://ieeexplore.ieee.org/abstract/document/10026863) \\
+
+**Kanghao Chen**, Weixian Lei, Shen Zhao, Wei-Shi Zheng, Ruixuan Wang
+
+
+</div>
+</div>
+
+- `ICME2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), Kanghao Chen, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
+
+
+- `CAC2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
+- `BIBM2023` [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, Kanghao Chen, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
+- `` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, Kanghao Chen, Ruixuan Wang, Jun Tao
+
+
+
+## Medical Image Analysis
+- `JOR spine` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, Kanghao Chen, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019-2020* National Scholarship 
+- *2016-2017* First Prize School Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D., AI, Hong Kong University of Science and Technology (Guangzhou). 
+- *2020.09 - 2022.06*, Master of Engineering, Computer Technology, Sun Yat-sen University.
+- *2016.09 - 2020.06*, Bachelor of Engineering, Computer Science and Technology, Jinan University, Guangzhou 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experience
+- *2022.07 - 2023.05*, Algorithm Researcher, [SenseTime](https://www.sensetime.com/cn), China.
+- *2021.07 - 2021.09*, Research Intern, [Netease](https://www.neteasegames.com/), China.
