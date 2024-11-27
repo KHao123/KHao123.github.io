@@ -49,9 +49,9 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 
-- `CVPR2024` [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang.
-- `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
-- `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
+- <div class="badge">CVPR 2024</div><span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang.
+- <div class="badge">arXiv</div> [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
+- <div class="badge">arXiv</div> [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
 
 
 
@@ -67,7 +67,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pcct.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JBHI 2023</div><img src='images/pcct.jpg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PCCT: Progressive class-center triplet loss for imbalanced medical image classification](https://ieeexplore.ieee.org/abstract/document/10026863) \\
 
@@ -77,17 +77,17 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-- `ICME 2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
+- <div class="badge">ICME 2022</div> [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
 
 
-- `CAC 2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
-- `BIBM 2023` [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, **Kanghao Chen**, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
-- `` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, **Kanghao Chen**, Ruixuan Wang, Jun Tao
+- <div class="badge">CAC 2024</div> [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
+- <div class="badge">BIBM 2023</div> [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, **Kanghao Chen**, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
+- <div class="badge">IntelliSys</div> [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, **Kanghao Chen**, Ruixuan Wang, Jun Tao
 
 
 
 ## 🩻 Medical Image Analysis
-- `JOR spine` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, **Kanghao Chen**, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
+- <div class="badge">JOR spine</div> [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, **Kanghao Chen**, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
 
 # 🎖 Honors and Awards
 - *2019-2020* National Scholarship 
