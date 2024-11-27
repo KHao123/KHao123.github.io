@@ -34,7 +34,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 # 📝 Publications 
 ## 👁️ Bio-inspired Vision
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lase-e2v_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lase-e2v_overview.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction](https://openreview.net/pdf?id=3ilqQHBWTf) \\
@@ -57,7 +57,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 ## 🤖 Machine Learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imbalance_2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imbalance_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Alleviating data imbalance issue with perturbed input during inference](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_39) \\
 
@@ -67,7 +67,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pcct.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pcct.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PCCT: Progressive class-center triplet loss for imbalanced medical image classification](https://ieeexplore.ieee.org/abstract/document/10026863) \\
 
