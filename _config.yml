@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Kanghao Chen (陈康豪) - Homepage"
+title                    : "Kanghao Chen (陈康豪)"
 description              : 
 repository               : "KHao123/KHao123.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kanghao Chen"
-  avatar           : "images/196911719240332_.pic_hd.png"
+  avatar           : "images/author.png"
   bio              : "PhD student at AI Thrust of HKUST (GZ)"
   location         : "Guangzhou, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "KHao123"
   google_plus      :
   keybase          :
   instagram        :

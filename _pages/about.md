@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in AI Thrust, HKUST(GZ), supervised by Prof. <a href='https://www.yingcong.me/'>Yingcong Chen</a> and Prof. <a href='https://cislab.hkust-gz.edu.cn/members/zeyu-wang/'>Zeyu Wang</a>. I did my master(2020-2022) at the Sun Yat-sen University, where I was advised by <a href="http://www.isee-ai.cn/~wangruixuan/">Ruixuan Wang</a> and <a href="http://www.isee-ai.cn/~zhwshi/">Wei-Shi Zheng</a>. I did my bachelor(2016-2020) at the Jinan University, majoring in computer science.
+I am currently a Ph.D. student in AI Thrust, HKUST(GZ), supervised by Prof. <a href='https://www.yingcong.me/'>Yingcong Chen</a> and Prof. <a href='https://cislab.hkust-gz.edu.cn/members/zeyu-wang/'>Zeyu Wang</a>. I did my master(2020-2022) at the Sun Yat-sen University, where I was advised by Prof. <a href="http://www.isee-ai.cn/~wangruixuan/">Ruixuan Wang</a> and Prof. <a href="http://www.isee-ai.cn/~zhwshi/">Wei-Shi Zheng</a>. I did my bachelor(2016-2020) at the Jinan University, majoring in computer science.
 
-My primary research interests includes 3D reconstruction/generation. bio-inspired vision, machine learning and medical image analysis. If you are also interested in these fields, please feel free to email me for further discussion on my works.
+My primary research interests includes 3D reconstruction/generatio, bio-inspired vision, machine learning and medical image analysis. If you are also interested in these fields, please feel free to email me for further discussion on my works.
 
 Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
@@ -32,9 +32,9 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 - *2023.09*: &nbsp;I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. student.
 
 # 📝 Publications 
-## Bio-inspired Vision
+## 👁️ Bio-inspired Vision
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/lase-e2v_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaSe-E2V: Towards Language-guided Semantic-Aware Event-to-Video Reconstruction](https://openreview.net/pdf?id=3ilqQHBWTf) \\
@@ -50,14 +50,14 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 - `CVPR2024` [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang.
-- `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), Kanghao Chen, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
+- `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
 - `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
 
 
 
 
-## Machine Learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## 🤖 Machine Learning
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imbalance_2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Alleviating data imbalance issue with perturbed input during inference](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_39) \\
 
@@ -67,7 +67,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/pcct.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PCCT: Progressive class-center triplet loss for imbalanced medical image classification](https://ieeexplore.ieee.org/abstract/document/10026863) \\
 
@@ -77,17 +77,17 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-- `ICME2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), Kanghao Chen, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
+- `ICME 2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
 
 
-- `CAC2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
-- `BIBM2023` [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, Kanghao Chen, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
-- `` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, Kanghao Chen, Ruixuan Wang, Jun Tao
+- `CAC 2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
+- `BIBM 2023` [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, **Kanghao Chen**, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
+- `` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, **Kanghao Chen**, Ruixuan Wang, Jun Tao
 
 
 
-## Medical Image Analysis
-- `JOR spine` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, Kanghao Chen, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
+## 🩻 Medical Image Analysis
+- `JOR spine` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, **Kanghao Chen**, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
 
 # 🎖 Honors and Awards
 - *2019-2020* National Scholarship 
