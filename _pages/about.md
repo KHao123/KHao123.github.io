@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. student in AI Thrust, HKUST(GZ), supervised by Prof. <a href='https://www.yingcong.me/'>Yingcong Chen</a> and Prof. <a href='https://cislab.hkust-gz.edu.cn/members/zeyu-wang/'>Zeyu Wang</a>. I did my master(2020-2022) at the Sun Yat-sen University, where I was advised by Prof. <a href="http://www.isee-ai.cn/~wangruixuan/">Ruixuan Wang</a> and Prof. <a href="http://www.isee-ai.cn/~zhwshi/">Wei-Shi Zheng</a>. I did my bachelor(2016-2020) at the Jinan University, majoring in computer science.
 
-My primary research interests includes 3D reconstruction/generatio, bio-inspired vision, machine learning and medical image analysis. If you are also interested in these fields, please feel free to email me for further discussion on my works.
+My primary research interests includes 3D reconstruction/generation, bio-inspired vision, machine learning and medical image analysis. If you are also interested in these fields, please feel free to email me for further discussion on my works.
 
 Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
@@ -28,7 +28,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS2024. 
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2024 Oral. 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2024(Oral). 
 - *2023.09*: &nbsp;I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. student.
 
 # 📝 Publications 
@@ -57,7 +57,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 ## 🤖 Machine Learning
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/imbalance_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2021</div><img src='images/imbalance_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Alleviating data imbalance issue with perturbed input during inference](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_39) \\
 
@@ -80,9 +80,9 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 - `ICME 2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
 
 
-- `CAC 2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang.
+<!-- - `CAC 2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang. -->
 - `BIBM 2023` [Expert with outlier exposure for continual learning of new diseases](https://ieeexplore.ieee.org/abstract/document/9995352), Zhengjing Xu, **Kanghao Chen**, Wei-Shi Zheng, Zhijun Tan, Xiaobo Yang, Ruixuan Wang.
-- `IntelliSys 2022` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, **Kanghao Chen**, Ruixuan Wang, Jun Tao
+<!-- - `IntelliSys 2022` [Synthetic minority with cutmix for imbalanced image classification](https://link.springer.com/chapter/10.1007/978-3-031-16078-3_37), Chenghua Zeng, Huijuan Lu, **Kanghao Chen**, Ruixuan Wang, Jun Tao -->
 
 
 
