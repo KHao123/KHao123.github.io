@@ -41,7 +41,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 **Kanghao Chen**, Hangyu Li, JiaZhou Zhou, Zeyu Wang, Lin Wang
 
-[**Project**](https://vlislab22.github.io/LaSe-E2V/) 
+[**Project**](https://vlislab22.github.io/LaSe-E2V/) | [**Code**](https://github.com/KHao123/LaSe-E2V) (coming soon)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
@@ -49,7 +49,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 
-- `CVPR 2024`<span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang.
+- `CVPR 2024`<span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang. | [**Project**](https://vlislab22.github.io/eg-lowlight/) | [**Code**](https://github.com/EthanLiang99/EvLight)
 - `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
 - `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
 
@@ -63,6 +63,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 **Kanghao Chen**, Yifan Mao, Huijuan Lu, Chenghua Zeng, Ruixuan Wang, Wei-Shi Zheng
 
+[**Code**](https://github.com/KHao123/Gradient_Perturb)
 
 </div>
 </div>
@@ -73,6 +74,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 **Kanghao Chen**, Weixian Lei, Shen Zhao, Wei-Shi Zheng, Ruixuan Wang
 
+[**Code**](https://github.com/KHao123/Triplet_Center)
 
 </div>
 </div>
@@ -87,7 +89,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 ## 🩻 Medical Image Analysis
-- `JOR spine` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, **Kanghao Chen**, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
+- `JOR spine 2023` [Automatic Lenke classification of adolescent idiopathic scoliosis with deep learning](https://onlinelibrary.wiley.com/doi/full/10.1002/jsp2.1327), Baolin Zhang, **Kanghao Chen**, Haodong Yuan, Zhiheng Liao, Taifeng Zhou, Weiming Guo, Shen Zhao, Ruixuan Wang, Peiqiang Su
 
 # 🎖 Honors and Awards
 - *2019-2020* National Scholarship 
