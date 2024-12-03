@@ -49,7 +49,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 
-- `CVPR 2024`<span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang. | [**Project**](https://vlislab22.github.io/eg-lowlight/) | [**Code**](https://github.com/EthanLiang99/EvLight)
+- `CVPR 2024`<span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang. \| [**Project**](https://vlislab22.github.io/eg-lowlight/) \| [**Code**](https://github.com/EthanLiang99/EvLight)
 - `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
 - `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
 
