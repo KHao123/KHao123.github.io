@@ -27,6 +27,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICRA2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2024(Oral). 
 - *2023.09*: &nbsp;I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. student.
@@ -48,7 +49,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 
 
-
+- `ICRA 2025` [Elite-evgs: Learning event-based 3d gaussian splatting by distilling event-to-video priors](https://arxiv.org/abs/2409.13392), Zixin Zhang, **Kanghao Chen**, Lin Wang.
 - `CVPR 2024`<span style="color:red">(Oral)</span> [Towards Robust Event-guided Low-Light Image Enhancement: A Large-Scale Real-World Event-Image Dataset and Novel Approach](https://openaccess.thecvf.com/content/CVPR2024/papers/Liang_Towards_Robust_Event-guided_Low-Light_Image_Enhancement_A_Large-Scale_Real-World_Event-Image_CVPR_2024_paper.pdf), Guoqiang Liang, **Kanghao Chen**, Hangyu Li, Yunfan Lu, Lin Wang. \| [**Project**](https://vlislab22.github.io/eg-lowlight/) \| [**Code**](https://github.com/EthanLiang99/EvLight)
 - `arXiv` [EvLight++: Low-Light Video Enhancement with an Event Camera: A Large-Scale Real-World Dataset, Novel Method, and More](https://arxiv.org/abs/2408.16254), **Kanghao Chen**, Guoqiang Liang, Hangyu Li, Yunfan Lu, Lin Wang.
 - `arXiv` [ExFMan: Rendering 3D Dynamic Humans with Hybrid Monocular Blurry Frames and Events](https://arxiv.org/abs/2409.14103), **Kanghao Chen**, Zeyu Wang, Lin Wang. 
@@ -79,7 +80,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 </div>
 </div>
 
-- `ICME 2022` [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
+- `ICME 2022`<span style="color:red">(Oral)</span> [Improving Class Balancing at Both Feature Extractor and Classifier Head](https://ieeexplore.ieee.org/abstract/document/9860019), **Kanghao Chen**, Huijuan Lu, Ruixuan Wang, Wei-Shi Zheng.
 
 
 <!-- - `CAC 2024` [Adaptively Integrated Knowledge Distillation and Prediction Uncertainty for Continual Learning](https://ieeexplore.ieee.org/abstract/document/10450726/), **Kanghao Chen**, Sijia Lin, Jianguo Zhang, Wei-Shi Zheng, Ruixuan Wang. -->
