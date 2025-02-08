@@ -27,7 +27,7 @@ Recently, I am investgating on 3D/4D scene reconstruction and generation.
 
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by ICRA2025.
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by ICRA2025.
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS2024. 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted by CVPR2024(Oral). 
 - *2023.09*: &nbsp;I join AI Thrust, Info Hub in HKUST(GZ) as a Ph.D. student.
